@@ -16,7 +16,7 @@ const AppName = styled.div`
   align-items: center;
 `;
 const Header = styled.div`
-  background-color: black;
+  background-color: brown;
   color: white;
   display: flex;
   justify-content: space-between;
